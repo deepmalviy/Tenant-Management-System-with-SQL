@@ -3,23 +3,24 @@ Overview:
 The Tenant Management System is a comprehensive database designed to facilitate the management of tenants, properties, and related activities. This system caters to the needs of property managers, providing a centralized platform to track tenant details, tenancy histories, house information, and more. The database supports functionalities such as tracking referrals, and employment details and generating reports for effective decision-making.
 
 Database Structure:
-Tenancy Histories:
-Stores information about tenants' move-in and move-out dates, rent, and other relevant details.
 
-Profiles:
-Contains detailed information about individual tenants, including personal details, contact information, city, and marital status.
+  Tenancy Histories:
+  Stores information about tenants' move-in and move-out dates, rent, and other relevant details.
 
-Houses:
-Stores details about different properties, including house type, BHK details, bed count, and furnishing type.
-
-Addresses:
-Manages address details associated with each house, facilitating location-specific information.
-
-Referrals:
-Tracks tenant referrals, including the referrer's ID, bonus amount, referral validity, and dates.
-
-Employment Details:
-Captures employment-related information for tenants, aiding in understanding their occupational category and experience.
+  Profiles:
+  Contains detailed information about individual tenants, including personal details, contact information, city, and marital status.
+  
+  Houses:
+  Stores details about different properties, including house type, BHK details, bed count, and furnishing type.
+  
+  Addresses:
+  Manages address details associated with each house, facilitating location-specific information.
+  
+  Referrals:
+  Tracks tenant referrals, including the referrer's ID, bonus amount, referral validity, and dates.
+  
+  Employment Details:
+  Captures employment-related information for tenants, aiding in understanding their occupational category and experience.
 
 Key Features:
 Tenant Management: Easily track and manage tenant details, including personal information and contact details.
