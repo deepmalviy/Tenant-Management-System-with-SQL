@@ -3,7 +3,6 @@ Overview:
 The Tenant Management System is a comprehensive database designed to facilitate the management of tenants, properties, and related activities. This system caters to the needs of property managers, providing a centralized platform to track tenant details, tenancy histories, house information, and more. The database supports functionalities such as tracking referrals, and employment details and generating reports for effective decision-making.
 
 Database Structure:
-
 Tenancy Histories:
 Stores information about tenants' move-in and move-out dates, rent, and other relevant details.
 
