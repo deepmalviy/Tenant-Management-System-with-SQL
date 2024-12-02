@@ -1,4 +1,12 @@
 # Tenant-Management-System-with-SQL
+
+## Table of Contents
+1. [Overview](#Overview)
+2. [Database Structure](#Database-Structure)
+3. [Key Features](#Key-Features)
+4. [Benefits](#Benefits)
+5. [Conclusion](#Conclusion)
+   
 ## Overview:
 The Tenant Management System is a comprehensive database designed to facilitate the management of tenants, properties, and related activities. This system caters to the needs of property managers, providing a centralized platform to track tenant details, tenancy histories, house information, and more. The database supports functionalities such as tracking referrals, and employment details and generating reports for effective decision-making.
 
