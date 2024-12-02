@@ -4,8 +4,8 @@ The Tenant Management System is a comprehensive database designed to facilitate 
 
 Database Structure:
 
-  Tenancy Histories:
-  Stores information about tenants' move-in and move-out dates, rent, and other relevant details.
+  - Tenancy Histories:
+  ** Stores information about tenants' move-in and move-out dates, rent, and other relevant details.
 
   Profiles:
   Contains detailed information about individual tenants, including personal details, contact information, city, and marital status.
