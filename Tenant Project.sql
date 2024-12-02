@@ -132,10 +132,8 @@ FROM
 JOIN
     dbo.[Tenancy History] TH ON P.profile_id = TH.profile_id;
 
+
 #### Q9
-
-
-#### Q10
 SELECT TOP 1
     H.*
 FROM
