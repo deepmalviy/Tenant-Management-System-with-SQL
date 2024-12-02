@@ -1,0 +1,42 @@
+Q1
+Question:
+Which tenant had the longest tenancy period? Provide their profile ID, email ID, phone number, and full name.
+
+Q2
+Question:
+List the details of married tenants whose rent exceeds 9000. Include their email ID, phone number, full name, and rent amount.
+
+Q3
+Question:
+Retrieve the details of tenants who moved into houses in Pune or Bangalore between January 1, 2015, and January 31, 2016. Include their profile ID, email ID, phone number, full name, house ID, move-in and move-out dates, rent, city, latest employer, occupational category, and the total number of referrals. Sort the results by rent in descending order.
+
+Q4
+Question:
+Which tenants referred more than one person? Provide their full name, email ID, phone number, referral code, total number of referrals, and the total bonus amount from valid referrals.
+
+Q5
+Question:
+What is the total rent collected per city, and the grand total across all cities? Display the results, including a breakdown by city and a row for the grand total.
+
+Q6
+Question:
+Create a view that shows details of tenants who moved in after April 30, 2015, and stayed in houses with vacant beds. Include their profile ID, rent, move-in date, house type, beds vacant, house description, and city.
+
+Q7
+Question:
+Extend the valid_till date of referrals by one month for any referral IDs that appear more than once in the Referral table.
+
+Q8
+Question:
+Classify tenants into customer segments based on their rent:
+
+Grade A: Rent > 10,000
+Grade B: Rent between 7,500 and 10,000
+Grade C: Rent ≤ 7,500
+Provide their profile ID, full name, phone number, and customer segment.
+Q9
+(No query provided. You might need to reconstruct this based on context or add details later.)
+
+Q10
+Question:
+Which house had the highest occupancy? Display all details of the house.
