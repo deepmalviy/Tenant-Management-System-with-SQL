@@ -19,4 +19,4 @@ Grade B: Rent between 7,500 and 10,000
 Grade C: Rent ≤ 7,500
 Provide their profile ID, full name, phone number, and customer segment.
 
-Q10. Which house had the highest occupancy? Display all details of the house.
+Q9. Which house had the highest occupancy? Display all details of the house.
